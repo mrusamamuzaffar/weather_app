@@ -1,3 +1,10 @@
 # Simple Weather App
 
-![160137257-74793b5d-0c44-44ad-a0d3-28aaa06f99b1](https://user-images.githubusercontent.com/63847876/165778307-92efc96a-5e78-4b53-b1ff-f9eaffc77b89.png)
+Display weather details on your current or any specific location.
+
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/169024696-e781c6fd-2467-42ac-9d0f-1fc7b3aa3f2c.jpg" >
+</p>
