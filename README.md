@@ -1,4 +1,4 @@
-# Simple Weather App-flutter
+# simple weather app - flutter
 
 Display weather details on your current or any specific location.
 
