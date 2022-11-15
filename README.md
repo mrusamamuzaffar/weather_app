@@ -2,6 +2,8 @@
 
 Display weather details on your current or any specific location.
 
+## Screenshot
+
 <p align="center">
   <img 
     width=40%
